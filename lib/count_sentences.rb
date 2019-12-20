@@ -4,7 +4,6 @@ class String
 
   def sentence?
     "HI!".end_with?("!")
-    
   end
 
   def question?
