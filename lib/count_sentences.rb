@@ -8,7 +8,7 @@ class String
 
   def question?
     if self.end_with("?") 
-      return 
+      return true
 
   end
 
