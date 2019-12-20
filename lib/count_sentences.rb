@@ -7,7 +7,7 @@ class String
   end
 
   def question?
-    if self
+    if self.end
 
   end
 
